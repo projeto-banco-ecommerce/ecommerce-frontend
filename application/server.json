@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "PC gamer completo",
+      "price": 11279.9,
+      "image": "https://www.omegascopio.com.br/wp-content/uploads/2021/07/layout.jpg"
+    },
+    {
+      "id": 2,
+      "title": "PC gamer completo",
+      "price": 139.9,
+      "image": "https://www.omegascopio.com.br/wp-content/uploads/2021/07/layout.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Placa de video rtx 3090",
+      "price": 219.9,
+      "image": "https://s2.glbimg.com/IgNgf_xBkebiycwHemBIiRfHnhQ=/0x0:1355x762/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/K/i/EiwRNsRwaG5nL3Bl4Mhg/captura-de-tela-2020-09-01-as-13.36.09.png"
+    },
+    {
+      "id": 5,
+      "title": "Placa de video rtx 3090",
+      "price": 139.9,
+      "image": "https://s2.glbimg.com/IgNgf_xBkebiycwHemBIiRfHnhQ=/0x0:1355x762/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/K/i/EiwRNsRwaG5nL3Bl4Mhg/captura-de-tela-2020-09-01-as-13.36.09.png"
+    },
+    {
+      "id": 6,
+      "title": "Processador Ryzer 9",
+      "price": 2219.9,
+      "image": "https://ae01.alicdn.com/kf/H06baa5973c2748409bd01b9da56cde61E/Processador-amd-ryzen-9-5900x-r9-5900x-3-7-ghz-processador-cpu-twelve-core-24-thread.png"
+    },
+    {
+      "id": 4,
+      "title": "Processador Ryzer 9",
+      "price": 1719.9,
+      "image": "https://ae01.alicdn.com/kf/H06baa5973c2748409bd01b9da56cde61E/Processador-amd-ryzen-9-5900x-r9-5900x-3-7-ghz-processador-cpu-twelve-core-24-thread.png"
+    }
+  ]
+}
