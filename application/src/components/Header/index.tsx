@@ -15,7 +15,6 @@ const Header = (): JSX.Element => {
       <Link to="/">
         <img src={logo} alt="TechSpace" />
       </Link>
-
       <Cart to="/cart">
         <div>
           <strong>Meu carrinho</strong>
